@@ -1,0 +1,4 @@
+// ignore: constant_identifier_names
+const String PRO_API = "https://gtpdhxmmgygkczyxzmwh.supabase.co";
+// ignore: constant_identifier_names
+const String API_ANON ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd0cGRoeG1tZ3lna2N6eXh6bXdoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjcxNjA5ODUsImV4cCI6MjA4MjczNjk4NX0.l5VGYy2taMCKNO22rJDGqypZ7Irr3V1TyNGvSvoszcw";
